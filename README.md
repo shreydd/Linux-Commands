@@ -6,6 +6,12 @@ npm init -y
 initialises npm without asking questions
 
 #
+```bash 
+echo "<h1>Hello</h1>" > index.html
+```
+inserts this line into the file
+
+#
 ```bash
 git status
 ```
@@ -36,6 +42,9 @@ Opens up vi editor
 ls -a
 ```
 List hidden files
+
+#
+<kbd> ~ </kbd> Is called a tilde
 
 #
 Handy linux commands explainer website https://www.explainshell.com
